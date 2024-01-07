@@ -33,11 +33,4 @@
   
 </h6>
 
-<hr>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safaatosun&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=python,html,css" alt="ovi" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=safaatosun&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
-
 <br><br><br><br><br>
